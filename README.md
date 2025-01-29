@@ -1,19 +1,9 @@
 <h2 style="display: flex; justify-content: space-between; align-items: center; ">
   👨🏻‍💻 Bem-vindo(a) ao meu perfil! </h2> 
-  <span>
-    <a href="https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/lucas-telho" target="_blank">
-      <img src="https://flagsapi.com/GB/flat/64.png" width="35" alt="Inglês">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://translate.google.com/translate?sl=auto&tl=de&u=https://github.com/lucas-telho" target="_blank">
-      <img src="https://flagsapi.com/DE/flat/64.png" width="35" alt="Alemão">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/lucas-telho" target="_blank">
-      <img src="https://flagsapi.com/ES/flat/64.png" width="35" alt="Espanhol">
-    </a>
-  </span>
 
+  [![Inglês](https://flagsapi.com/GB/flat/64.png)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/lucas-telho)
+[![Alemão](https://flagsapi.com/DE/flat/64.png)](https://translate.google.com/translate?sl=auto&tl=de&u=https://github.com/lucas-telho)
+[![Espanhol](https://flagsapi.com/ES/flat/64.png)](https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/lucas-telho)
 
 ### Olá! 👋  
 Sou um desenvolvedor **front-end** desde 2021, formado pela **Universidade Virtual do Estado de São Paulo**. Tenho experiência na construção de interfaces modernas e interativas, utilizando **HTML, CSS e JavaScript**, além de trabalhar com **React e Angular** no desenvolvimento de aplicações dinâmicas.
